@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  color: #FFFFFF;
+  background-color: #1C2939;
+}
+.container-formulario {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 60%;
+  height: 100%;
+  background-color:#19AE9A;
+  border-radius: 03em;
+}
+
+.container-formulario input {
+  width: 100%;
+  border-radius: 0.5em;
+}
+
+form {
+  width: 60%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+form label {
+  align-self: start;
+}
+a {
+  text-decoration: none;
+  color: #000000
+}
+a:link {
+  text-decoration: none;
+  color: #000000;
+};
+a:visited {
+  text-decoration: none;
+  color: #000000;
+}
+a:active{
+  text-decoration: none;
+  color: #000000;
+};
+
+
+form button {
+  width: 10em;
+  height: 2em;
+  margin-top: 1em;
+}
+
+.listar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  
+  }
+  .listar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+    }
